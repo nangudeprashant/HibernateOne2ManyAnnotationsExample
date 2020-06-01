@@ -1,5 +1,5 @@
-create database stockdb;
-use stockdb;
+create database test;
+use test;
 
 CREATE TABLE `category` (
   `category_id` int(11) NOT NULL AUTO_INCREMENT,

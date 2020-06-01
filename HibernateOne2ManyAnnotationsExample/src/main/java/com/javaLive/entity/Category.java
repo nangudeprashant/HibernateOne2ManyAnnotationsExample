@@ -1,4 +1,4 @@
-package net.codejava.hibernate;
+package com.javaLive.entity;
 
 import java.util.Set;
 

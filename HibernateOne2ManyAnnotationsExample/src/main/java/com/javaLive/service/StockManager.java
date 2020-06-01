@@ -1,4 +1,4 @@
-package net.codejava.hibernate;
+package com.javaLive.service;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -9,11 +9,14 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 import org.hibernate.service.ServiceRegistryBuilder;
 
+import com.javaLive.entity.Category;
+import com.javaLive.entity.Product;
+
 /**
  * 
  * This program demonstrates using JPA annotations in Hibernate
  * in order to implement a one-to-many association mapping.
- * @author www.codejava.net
+ * @author www.JavaLive.com
  *
  */
 public class StockManager {

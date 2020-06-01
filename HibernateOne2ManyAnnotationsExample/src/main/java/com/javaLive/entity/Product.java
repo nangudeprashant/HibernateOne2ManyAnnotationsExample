@@ -1,4 +1,4 @@
-package net.codejava.hibernate;
+package com.javaLive.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
